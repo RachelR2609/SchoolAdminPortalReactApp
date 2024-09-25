@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAdminPortalReactApp.Server", "SchoolAdminPortalReactApp.Server\SchoolAdminPortalReactApp.Server.csproj", "{B13B35A9-8F15-424F-8FCD-DEFBBD51CBC4}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "schooladminportalreactapp.client", "schooladminportalreactapp.client\schooladminportalreactapp.client.esproj", "{5732144A-A070-4EE8-96EA-06BFB19C417A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13B35A9-8F15-424F-8FCD-DEFBBD51CBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13B35A9-8F15-424F-8FCD-DEFBBD51CBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13B35A9-8F15-424F-8FCD-DEFBBD51CBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13B35A9-8F15-424F-8FCD-DEFBBD51CBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5732144A-A070-4EE8-96EA-06BFB19C417A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC8F1F6-8F43-4F3B-A160-409A19B9816A}
+	EndGlobalSection
+EndGlobal
